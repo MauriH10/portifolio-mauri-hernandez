@@ -1,2 +1,69 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+# 🧩 <Nome da Disciplina>
+**Período:** 2025/1  
+**Projeto:** <Nome do projeto ou atividade principal>  
+**Professor(a):** <Nome do professor>
+
+---
+
+## 🎯 Problema a ser resolvido
+Descreva brevemente o problema que o projeto aborda.
+
+> Exemplo: Desenvolver um sistema web para gerenciamento de tarefas colaborativas, com controle de usuários e prazos.
+
+---
+
+## 🏗️ Arquitetura e Tecnologias
+Explique as decisões técnicas e a estrutura do sistema:
+- Linguagens e frameworks utilizados
+- Padrões de projeto aplicados
+- Estrutura de pastas e responsabilidades
+- Estratégias de testes e verificação
+- Integração contínua / automação
+
+*(Adicione diagramas UML ou imagens na pasta [`docs/`](./docs))*  
+
+---
+
+## 🧱 Boas práticas aplicadas
+Liste práticas de Engenharia de Software seguidas neste projeto:
+- Versionamento semântico e commits descritivos
+- Testes automatizados
+- Documentação em Markdown
+- Princípios **SOLID**, **DRY**, **KISS**
+- Uso de ferramentas de linting, revisão e CI
+
+---
+
+## 🤝 Soft Skills e Trabalho em Equipe
+Reflexão pessoal sobre como contribuiu no projeto:
+> - Liderei o grupo nas definições de arquitetura.  
+> - Trabalhei de forma autônoma na implementação de um módulo.  
+> - Busquei referências em artigos e repositórios open-source.  
+> - Organizei reuniões e apresentei progresso.
+
+---
+
+## 🧪 Exemplos de Código
+
+```java
+public double calcularDesconto(Produto p) {
+    return p.getPreco() * TAXA_DESCONTO;
+}
+```
+
+---
+
+## 📄 Documentação
+Consulte [`docs/`](./docs) para:
+- Diagramas UML  
+- Planejamento de testes  
+- Relatórios técnicos  
+- Slides de apresentação  
+
+---
+
+## 📈 Resultados e Aprendizados
+- O que funcionou bem  
+- O que poderia melhorar  
+- Conceitos mais aplicados da disciplina  
+- Lições para projetos futuros
